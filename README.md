@@ -7,8 +7,13 @@ This project showcases a variety of jQuery-powered interactive picture effects. 
 # Key Features: 
 </br>
 ***Fade Effects: Control the image's opacity with fade in, fade out, and fade toggle animations.***
+</br>
 ***Slide Effects: Slide the image up or down, or toggle its sliding visibility.***
+</br>
 ***Show/Hide Effects: Hide or show the image with animation, including a toggle feature.***
+</br>
 ***Resize Animation: Shrink or reset the image size with smooth transitions.***
+</br>
 ***Stylish Design: Modern button styles with gradients and hover effects, and a clean layout with a centered image and shadow effects for a polished look.***
+</br>
 
